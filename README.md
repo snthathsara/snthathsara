@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @snthathsara
+- 👋 Hi, I’m Sithija
 - 👀 I’m interested in python\java game devoloping
 - 🌱 I’m currently learning.
 - 📫 How to reach me snthathsara@gmail.com
